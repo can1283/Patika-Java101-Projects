@@ -13,6 +13,7 @@ import java.text.DecimalFormat;
 public class Greengrocer {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        // add variable
         double pear = 2.14, apple = 3.67, tomato = 1.11, banana = 0.95, eggplant = 5.00;
         double pearKg, appleKg, tomatoKg, bananaKg, eggplantKg;
 
@@ -26,10 +27,11 @@ public class Greengrocer {
         bananaKg = input.nextDouble();
         System.out.print("Enter the weight of eggplants (in kg): ");
         eggplantKg = input.nextDouble();
-
+        
+        //calculate total prices
         System.out.println("--- receipt ---");
         double total = (pear * pearKg) + (apple * appleKg) + (tomato * tomatoKg) + (banana * bananaKg) + (eggplant * eggplantKg);
-
+        
         DecimalFormat df = new DecimalFormat("#.##");
         String formattedTotal = df.format(total);
         System.out.println("Total amount: " + formattedTotal);
