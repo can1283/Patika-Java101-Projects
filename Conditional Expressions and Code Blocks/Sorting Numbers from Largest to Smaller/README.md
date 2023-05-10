@@ -1,0 +1,1 @@
+The code prompts the user to enter three numbers. It then compares and arranges the numbers in descending order using if-else statements. The largest number is determined first, and then the other two numbers are arranged accordingly. Finally, the sorted numbers are displayed on the console.
