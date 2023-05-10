@@ -1,2 +1,2 @@
-## Chinese Zodiac
+## Project Details:
 The program prompts the user to enter their birth year. It then performs some validations to check if the input year is negative. If it's negative, an error message is displayed. Otherwise, it calculates the Chinese zodiac sign using the modulo operator (%). The remainder of dividing the birth year by 12 is used to determine the corresponding zodiac sign. After determining the zodiac sign, the program displays the result to the user.
