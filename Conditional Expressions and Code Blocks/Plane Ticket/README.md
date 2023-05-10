@@ -14,4 +14,4 @@ The program follows the following steps to calculate the ticket price:
 8. The program calculates the total price based on the discounted price. If the travel type is round-trip, the total price is doubled.
 9. The program displays the total price to the user.  
   
-The "Airplane Ticket Price Calculator" provides a simple and efficient way to calculate ticket prices for various distances and passenger ages. It incorporates conditional statements and mathematical operations to determine the final price based on different factors. By using this program, users can quickly calculate the cost of their airplane tickets, taking advantage of discounts based on age and travel type.
+The "Plane Ticket" provides a simple and efficient way to calculate ticket prices for various distances and passenger ages. It incorporates conditional statements and mathematical operations to determine the final price based on different factors. By using this program, users can quickly calculate the cost of their airplane tickets, taking advantage of discounts based on age and travel type.
