@@ -13,10 +13,12 @@ public class AreaAndEnvironment {
         b = input.nextInt();
         System.out.print("Enter the third side length: ");
         c = input.nextInt();
-
+        
+        // added formula
         environment = a + b + c;
         area = (a * b) / 2.0;
-
+        
+        // calculate
         System.out.println("Environment: " + environment);
         System.out.println("Area: " + area);
     }
