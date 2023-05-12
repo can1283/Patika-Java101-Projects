@@ -1,2 +1,2 @@
 ## Project Details:
-These comments provide an explanation of each section of the program, helping you understand what it does. For example, it mentions that the first loop is used to iterate through numbers from 2 to 100 for checking, and the second loop is used to determine whether a number is prime or not by checking divisors from 2 to the square root of the number.
+This program checks each number between 1 and 100 and determines if it is prime. A number is not prime if it is divisible by any number other than itself, starting from 2. If it is not divisible by any number, that number is considered prime and is printed on the screen.
