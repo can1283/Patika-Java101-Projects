@@ -8,6 +8,7 @@ To use this program, follow these steps:
 3. Run the compiled program using the command: java PerfectNumber
 4. Enter a number when prompted.
 5. The program will determine whether the entered number is a perfect number or not and display the result on the console.  
+
 Please note that the program expects the input number to be a positive integer. If a non-integer or a negative number is entered, the program may produce unexpected results.
 
 Feel free to explore and modify the program according to your needs.
