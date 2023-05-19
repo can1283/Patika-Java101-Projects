@@ -1,6 +1,6 @@
 ## Project Details:
 
-This is a Java program that prompts the user to enter the length of an array and then allows them to input elements for that array. After receiving the input, the program sorts the array in ascending order using the Arrays.sort() method and finally prints the sorted array.
+This is a Java program that prompts the user to enter the length of an array and then allows them to input elements for that array. After receiving the input, the program sorts the array in ascending order using the `Arrays.sort()` method and finally prints the sorted array.
 
 The program first asks the user to enter the length of the array. If the entered value is not a positive integer, it displays an error message and exits the program.
 
