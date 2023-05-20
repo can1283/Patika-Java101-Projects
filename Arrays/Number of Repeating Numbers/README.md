@@ -2,7 +2,7 @@
 
 This program calculates the frequencies of elements in an array.
 
-## Usage
+### Usage
 
 1. Compile the Java program using the following command:
 2. Run the compiled program using the following command:
